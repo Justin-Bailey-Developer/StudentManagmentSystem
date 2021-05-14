@@ -1,0 +1,16 @@
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\PROG7311_ICE2.exe
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\PROG7311_ICE2.deps.json
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\PROG7311_ICE2.runtimeconfig.json
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\PROG7311_ICE2.runtimeconfig.dev.json
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\PROG7311_ICE2.dll
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\ref\PROG7311_ICE2.dll
+F:\2021\PROG\PROG7311_ICE2\bin\Debug\net5.0\PROG7311_ICE2.pdb
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.csprojAssemblyReference.cache
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.GeneratedMSBuildEditorConfig.editorconfig
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.AssemblyInfoInputs.cache
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.AssemblyInfo.cs
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.csproj.CoreCompileInputs.cache
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.dll
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\ref\PROG7311_ICE2.dll
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.pdb
+F:\2021\PROG\PROG7311_ICE2\obj\Debug\net5.0\PROG7311_ICE2.genruntimeconfig.cache
